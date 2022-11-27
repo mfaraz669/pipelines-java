@@ -1,5 +1,6 @@
 
 # Contributing
+[![Build Status](https://dev.azure.com/mfaraz669/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/mfaraz669.pipelines-java?branchName=main)](https://dev.azure.com/mfaraz669/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=10&branchName=main)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
